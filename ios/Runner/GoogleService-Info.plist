@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>812776461042-3h3odbfqpupmblrl74m7k4f28vqrj5rv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.812776461042-3h3odbfqpupmblrl74m7k4f28vqrj5rv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHxVxUDR2bK86IY6gCJfhEIHkFbhl2EZA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>812776461042</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fsiDemo</string>
+	<key>PROJECT_ID</key>
+	<string>fsi-demo-a46bc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fsi-demo-a46bc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:812776461042:ios:86df5746394ae7c846b66b</string>
+	<key>DATABASE_URL</key>
+	<string>https://fsi-demo-a46bc.firebaseio.com</string>
+</dict>
+</plist>

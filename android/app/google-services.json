@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812776461042",
+    "firebase_url": "https://fsi-demo-a46bc.firebaseio.com",
+    "project_id": "fsi-demo-a46bc",
+    "storage_bucket": "fsi-demo-a46bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812776461042:android:8033451ae6b78bf046b66b",
+        "android_client_info": {
+          "package_name": "com.example.fsi_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812776461042-91q755hfv3d8q60i7dda0vg3g1t8tigf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuU_cCQvN-8-4BCWT0_r4Y70JFMN6F67w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812776461042-91q755hfv3d8q60i7dda0vg3g1t8tigf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
